@@ -1,4 +1,4 @@
-### Olá, dou o Lucas 👋
+### Olá, sou o Lucas 👋
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
