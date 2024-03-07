@@ -1,4 +1,6 @@
-### Olá, sou o Lucas 👋
+### Olá, sou o Lucas Alcantara 👋
+
+Estou cursando Análise e Desenvolvimento de Sistemas com o objetivo claro de me tornar um desenvolvedor de software. Em meio às incertezas profissionais, descobri minha verdadeira paixão nesta área. Estou em uma transição de carreira, dedicando-me aos estudos para aprimorar minhas habilidades e me adaptar ao mercado.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
