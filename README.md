@@ -1,6 +1,6 @@
 ### Olá, sou o Lucas Alcantara 👋
 
-Estou me formando em Análise e Desenvolvimento de Sistemas e, em meio às incertezas profissionais, descobri minha verdadeira paixão pela tecnologia. Atualmente, atuo como desenvolvedor web júnior, criando sites institucionais personalizados com WordPress, utilizando o CMS e desenvolvendo temas sob medida com HTML, SASS, JavaScript.
+Estou me formando em Análise e Desenvolvimento de Sistemas e, em meio às incertezas profissionais, descobri minha verdadeira paixão pela tecnologia. Atualmente, atuo como desenvolvedor web júnior, criando sites institucionais personalizados com WordPress, utilizando o CMS e desenvolvendo temas sob medida com HTML, SCSS, JavaScript.
 
 Estou em constante aprendizado e, no momento, estou me aprofundando em React.js e outras tecnologias, expandindo meus conhecimentos para novas oportunidades e desafios na área de desenvolvimento web.
 
