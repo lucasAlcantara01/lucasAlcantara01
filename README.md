@@ -1,6 +1,8 @@
 ### Olá, sou o Lucas Alcantara 👋
 
-Estou cursando Análise e Desenvolvimento de Sistemas com o objetivo claro de me tornar um desenvolvedor de software. Em meio às incertezas profissionais, descobri minha verdadeira paixão nesta área. Estou em uma transição de carreira, dedicando-me aos estudos para aprimorar minhas habilidades e me adaptar ao mercado.
+Estou me formando em Análise e Desenvolvimento de Sistemas e, em meio às incertezas profissionais, descobri minha verdadeira paixão pela tecnologia. Atualmente, atuo como desenvolvedor web júnior, criando sites institucionais personalizados com WordPress, utilizando o CMS e desenvolvendo temas sob medida com HTML, SASS, JavaScript.
+
+Estou em constante aprendizado e, no momento, estou me aprofundando em React.js e outras tecnologias, expandindo meus conhecimentos para novas oportunidades e desafios na área de desenvolvimento web.
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
